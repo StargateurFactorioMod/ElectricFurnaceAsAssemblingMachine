@@ -1,0 +1,8 @@
+{
+  "name": "ElectricFurnaceAsAssemblingMachine",
+  "version": "0.0.0",
+  "title": "Electric Furnace As Assembling Machine",
+  "author": "Stargateur",
+  "description": "Electric Furnace are now an assembling machine. You can lock their recipe.",
+  "factorio_version": "2.0"
+}
